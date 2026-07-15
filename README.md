@@ -97,7 +97,13 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 | Kiro | https://kiro.dev/ |
 | Antigravity | https://antigravity.dev/ |
 
+---
 
+# 🧰 Utilities
+
+| Tool | Purpose | URL |
+|------|---------|-----|
+| Miro | Online collaborative whiteboard | https://miro.com/ |
 
 # References
 - https://agentskills.io/home
