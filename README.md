@@ -4,7 +4,7 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 
 ---
 
-# 🏴 Capture The Flag (CTF)
+## 🏴 Capture The Flag (CTF)
 
 | Platform | Description |
 |----------|-------------|
@@ -15,7 +15,7 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 
 ---
 
-# 🐞 Bug Bounty Platforms
+## 🐞 Bug Bounty Platforms
 
 | Platform | Description |
 |----------|-------------|
@@ -24,7 +24,7 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 
 ---
 
-# 📚 Learning Platforms
+## 📚 Learning Platforms
 
 | Platform | Description |
 |----------|-------------|
@@ -36,7 +36,7 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 
 ---
 
-# 🇲🇾 Malaysian Cybersecurity Community
+## 🇲🇾 Malaysian Cybersecurity Community
 
 | Platform | Description |
 |----------|-------------|
@@ -44,7 +44,7 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 
 ---
 
-# 🛠️ Useful Security Tools
+## 🛠️ Useful Security Tools
 
 | Tool | Purpose | URL |
 |------|---------|-----|
@@ -56,7 +56,7 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 
 ---
 
-# ☁️ Hosting Platforms
+## ☁️ Hosting Platforms
 
 | Platform | Description | URL |
 |----------|-------------|-----|
@@ -65,7 +65,7 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 
 ---
 
-# ☁️ Cloud Platforms
+## ☁️ Cloud Platforms
 
 | Provider | Free Tier |
 |----------|-----------|
@@ -76,7 +76,7 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 
 ---
 
-# ☁️ Artificial Intelligence (AI)
+## ☁️ Artificial Intelligence (AI)
 
 | Provider | URL |
 |----------|-----|
@@ -89,7 +89,7 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 
 ---
 
-# 💻 AI IDEs
+## 💻 AI IDEs
 
 | IDE | URL |
 |-----|-----|
@@ -99,14 +99,16 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 
 ---
 
-# 🧰 Utilities
+## 🧰 Utilities
 
 | Tool | Purpose | URL |
 |------|---------|-----|
 | Miro | Online collaborative whiteboard | https://miro.com/ |
 | BetterCV | CV, Resume builder | https://bettercv.com/|
 
-# References
+---
+
+## References
 - https://agentskills.io/home
 
 
