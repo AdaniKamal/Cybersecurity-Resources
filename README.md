@@ -104,6 +104,7 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 | Tool | Purpose | URL |
 |------|---------|-----|
 | Miro | Online collaborative whiteboard | https://miro.com/ |
+| BetterCV | CV, Resume builder | https://bettercv.com/|
 
 # References
 - https://agentskills.io/home
