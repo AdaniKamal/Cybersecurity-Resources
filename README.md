@@ -12,6 +12,7 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 | National Cyber League (NCL) | https://nationalcyberleague.org/ |
 | CryptoHack | https://cryptohack.org/ |
 | RAT CTF | https://ratctf.thexssrat.com/ |
+| Flaws Cloud | http://flaws.cloud/ |
 
 ---
 
@@ -53,6 +54,7 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 | Nikto Online | Web Server Scanner | https://nikto.online/ |
 | ReqBin | Test HTTP Requests / cURL | https://reqbin.com/curl |
 | APK Auditor | Android APK Analysis | https://apkauditor.com/ |
+| WhOhSeen! | https://wh0hseen.pythonanywhere.com/login | 
 
 ---
 
