@@ -96,6 +96,7 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 | DeepSeek | https://chat.deepseek.com/ |
 | Perplexity | https://www.perplexity.ai/ |
 | Codex | https://openai.com/codex/ |
+| Opencode | https://opencode.ai/docs |
 
 ---
 
