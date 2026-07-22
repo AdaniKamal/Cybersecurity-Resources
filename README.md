@@ -25,6 +25,13 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 
 ---
 
+## Cybersecurity Reference
+
+| Platform | Description |
+|----------|-------------|
+| Vulnex | https://vulnex.vercel.app/ |
+| Cloudemned | https://aiman-hanif-dolah.github.io/cloudamned/ |
+
 ## 📚 Learning Platforms
 
 | Platform | Description |
@@ -34,6 +41,7 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 | PwnTillDawn | https://online.pwntilldawn.com/ |
 | TryHackMe | https://tryhackme.com/ |
 | Hack The Box | https://www.hackthebox.com/ |
+| Hack Smarter | https://www.hacksmarter.org/ |
 
 ---
 
