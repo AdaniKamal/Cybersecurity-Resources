@@ -59,6 +59,7 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 |------|---------|-----|
 | DuckDNS | Free Dynamic DNS | https://www.duckdns.org/ |
 | Security Headers | Analyze HTTP Security Headers | https://securityheaders.com/ |
+| Darkmoon | Autonomous AI pentest for web, API, AD and Kubernetes | https://github.com/ASCIT31/Dark-Moon |
 | Nikto Online | Web Server Scanner | https://nikto.online/ |
 | ReqBin | Test HTTP Requests / cURL | https://reqbin.com/curl |
 | APK Auditor | Android APK Analysis | https://apkauditor.com/ |
