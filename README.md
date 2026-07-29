@@ -119,6 +119,29 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 
 ---
 
+Learn Coding by playing games
+1. Kubernetes
+k8sgames.com
+2. DevOps
+devops.games
+3. Linux
+overthewire.org
+4. Git
+ohmygit.org
+5. Python
+codecombat.com
+6. CSS & HTML
+codepip.com
+7. Cybersecurity
+picoctf.org
+8. Mobile Coding (like Duolingo)
+sololearn.com
+9. For Complete Beginners
+scratch.mit.edu
+10. 25+ Programming Languages
+codingame.com
+
+
 ## References
 - https://agentskills.io/home
 
