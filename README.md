@@ -83,6 +83,7 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 | Amazon Web Services (AWS) | https://aws.amazon.com/free/ |
 | Microsoft Azure | https://azure.microsoft.com/free/ |
 | Google Cloud Platform (GCP) | https://cloud.google.com/free |
+| Cloudgoat | https://github.com/rhinosecuritylabs/cloudgoat |
 
 ---
 
