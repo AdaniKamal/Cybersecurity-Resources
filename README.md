@@ -85,6 +85,7 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 | Google Cloud Platform (GCP) | https://cloud.google.com/free |
 | Cloudgoat | https://github.com/rhinosecuritylabs/cloudgoat |
 | Cloud | https://app.pwnedlabs.io/dashboard |
+| Localstack | https://app.localstack.cloud/sign-in |
 
 ---
 
