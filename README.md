@@ -22,6 +22,7 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 |----------|-------------|
 | YesWeHack | https://yeswehack.com/ |
 | HackerOne | https://www.hackerone.com/ |
+| BugCrowd | |
 
 ---
 
@@ -122,6 +123,9 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 | BetterCV | CV, Resume builder | https://bettercv.com/|
 
 ---
+
+| Attack | URL |
+| Payload| https://github.com/swisskyrepo/PayloadsAllTheThings |
 
 Learn Coding by playing games
 1. Kubernetes
