@@ -125,7 +125,10 @@ A curated list of cybersecurity platforms, learning resources, CTFs, bug bounty 
 ---
 
 | Attack | URL |
+|--------|-----|
 | Payload| https://github.com/swisskyrepo/PayloadsAllTheThings |
+
+---
 
 Learn Coding by playing games
 1. Kubernetes
